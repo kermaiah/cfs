@@ -1,0 +1,25 @@
+{
+  "lastConfession": 2,
+  "confessions": {
+    "1": {
+      "messageId": "1390967691442917467",
+      "channelId": "1253727210083319909",
+      "user": {
+        "username": "_ilovecatssomuch",
+        "id": "849613161496969226",
+        "message": "dsa GUYS PUEDE PA SEND PIRA SA GCASH, GUSTO Q LG MAG LAYAS KASI HEHE.",
+        "time": "2025-07-05T08:09:00.930Z"
+      }
+    },
+    "2": {
+      "messageId": "1390967833671897138",
+      "channelId": "1253727210083319909",
+      "user": {
+        "username": "_ilovecatssomuch",
+        "id": "849613161496969226",
+        "message": "ay kala q included ung dsa ampota",
+        "time": "2025-07-05T08:09:36.043Z"
+      }
+    }
+  }
+}
